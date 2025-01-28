@@ -7,7 +7,7 @@ import React from "react";
 const Recover = () => {
   return (
     <>
-      <div className="py-20  bg-repeat bg-cover bg-bottom bg-[url('/images/banner-2.JPG')]">
+      <div className="py-20  bg-repeat bg-cover bg-bottom bg-[url('/images/banner-2.jpg')]">
         <div className="xs:px-6 lg:px-16">
           <div className="">
             <h1 className="text-5xl mb-4 font-medium xs:text-center md:text-start">

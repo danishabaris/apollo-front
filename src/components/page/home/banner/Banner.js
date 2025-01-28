@@ -4,7 +4,7 @@ import { FaStar } from "react-icons/fa6";
 
 const Banner = () => {
   return (
-    <div className="bannerSec xs:h-auto lg:h-screen bg-repeat bg-cover bg-bottom bg-[url('/images/banner-2.JPG')]">
+    <div className="bannerSec xs:h-auto lg:h-screen bg-repeat bg-cover bg-bottom bg-[url('/images/banner-2.jpg')]">
       <div className="xs:px-6 lg:px-16">
         <div className="grid xs:text-center lg:text-left xs:grid-cols-1 lg:grid-cols-2 gap-x-8">
           <div className="bannerContent pt-20">

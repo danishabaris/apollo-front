@@ -4,7 +4,7 @@ import BlogGrid from "./blog-grid";
 const Blogs = () => {
   return (
     <>
-      <div className="xs:px-6 lg:px-16 xs:h-auto lg:h-auto bg-repeat bg-cover bg-bottom bg-[url('/images/banner-2.JPG')]">
+      <div className="xs:px-6 lg:px-16 xs:h-auto lg:h-auto bg-repeat bg-cover bg-bottom bg-[url('/images/banner-2.jpg')]">
         <div className="xs:p-6 md:py-16">
           <h1 className="xs:text-4xl lg:text-5xl mb-8 font-extrabold">
             Our Blogs
